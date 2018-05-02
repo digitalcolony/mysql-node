@@ -1,0 +1,18 @@
+{
+  "name": "mysql-node",
+  "version": "1.0.0",
+  "description": "Sample MySQL code for Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "nodejs"
+  ],
+  "author": "Michael Allen Smith",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}

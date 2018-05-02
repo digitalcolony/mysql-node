@@ -1,0 +1,14 @@
+{
+  "test": {
+    "HOST": "",
+    "DATABASE": "",
+    "USER": "",
+    "PASSWORD": ""
+  },
+  "development": {
+    "HOST": "",
+    "DATABASE": "",
+    "USER": "",
+    "PASSWORD": ""
+  }
+}
